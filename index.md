@@ -33,10 +33,10 @@ Vaccine Ethics
 >1848 As St. Paul affirms, "Where sin increased, grace abounded all the more."118 But to do its work grace must uncover sin so as to convert our hearts and bestow on us "righteousness to eternal life through Jesus Christ our Lord."119 Like a physician who probes the wound before treating it, God, by his Word and by his Spirit, casts a living light on sin:
 
 >1868 Sin is a personal act. Moreover, we have a responsibility for the sins committed by others when we cooperate in them:
-- by participating directly and voluntarily in them;
-- by ordering, advising, praising, or approving them;
-- by not disclosing or not hindering them when we have an obligation to do so;
-- by protecting evil-doers.
+>- by participating directly and voluntarily in them;  
+>- by ordering, advising, praising, or approving them;  
+>- by not disclosing or not hindering them when we have an obligation to do so;  
+>- by protecting evil-doers.  
 
 >1869 Thus sin makes men accomplices of one another and causes concupiscence, violence, and injustice to reign among them. Sins give rise to social situations and institutions that are contrary to the divine goodness. "Structures of sin" are the expression and effect of personal sins. They lead their victims to do evil in their turn. In an analogous sense, they constitute a "social sin." (John Paul II, RP 16.)
 
@@ -90,28 +90,6 @@ Catechism
 
 >1914 Participation is achieved first of all by taking charge of the areas for which one assumes personal responsibility: by the care taken for the education of his family, by conscientious work, and so forth, man participates in the good of others and of society.31
 
-IN BRIEF
-
->1918 "There is no authority except from God, and those authorities that exist have been instituted by God" (Rom 13:1).
-
->1919 Every human community needs an authority in order to endure and develop.
-
->1920 "The political community and public authority are based on human nature and therefore . . . belong to an order established by God" (GS 74 § 3).
-
->1921 Authority is exercised legitimately if it is committed to the common good of society. To attain this it must employ morally acceptable means.
-
->1922 The diversity of political regimes is legitimate, provided they contribute to the good of the community.
-
->1923 Political authority must be exercised within the limits of the moral order and must guarantee the conditions for the exercise of freedom.
-
->1924 The common good comprises "the sum total of social conditions which allow people, either as groups or as individuals, to reach their fulfillment more fully and more easily" (GS 26 1).
-
->1925 The common good consists of three essential elements: respect for and promotion of the fundamental rights of the person; prosperity, or the development of the spiritual and temporal goods of society; the peace and security of the group and of its members.
-
->1926 The dignity of the human person requires the pursuit of the common good. Everyone should be concerned to create and support institutions that improve the conditions of human life.
-
->1927 It is the role of the state to defend and promote the common good of civil society. The common good of the whole human family calls for an organization of society on the international level.
-
 [CDC Workplace Vaccine Programm](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/recommendations/essentialworker/workplace-vaccination-program.html)  
 >Two types of exemptions can be implemented: 
  
@@ -141,7 +119,7 @@ Some people may decline vaccination because of a religious belief. This is refer
 [Frontline Doctors: Experimental vaccines are ‘not safer’ than COVID-19](https://www.lifesitenews.com/news/frontline-doctors-experimental-vaccines-not-safer-than-covid-19)  
 >Physicians’ white paper says injection prohibited for the young and at least discouraged for healthy individuals under 70 years of age. ‘Unethical’ to advocate vaccine for persons under 50.  
 
-CDC Guidance for Fully Vaccinated
+[CDC Guidance for Fully Vaccinated]()
 >We’re still learning how vaccines will affect the spread of COVID-19. After you’ve been fully vaccinated against COVID-19, you should keep taking precautions – like wearing a mask, staying 6 feet apart from others, and avoiding crowds and poorly ventilated spaces – in public places until we know more.  
 
 >You can gather indoors with fully vaccinated people without wearing a mask or staying 6 feet apart.  
@@ -193,7 +171,8 @@ COVID Vaccine VAERS Deaths
 https://www.thegatewaypundit.com/2021/03/exclusive-per-cdc-data-nearly-twice-many-vaccine-related-deaths-far-2021-1755-vaccine-deaths-past-decade-994/
 
 12 Faulty Assumptions About Vaccines Using Fetal Tissue  
-https://www.lifesitenews.com/news/vaccines-using-fetal-tissue-12-faulty-assumptions
+https://fetaltissue.org/faulty-assumptions/  
+
 LiveAction  
 https://www.liveaction.org/news/guide-fetal-cell-lines-aborted-vaccine-development/  
 
