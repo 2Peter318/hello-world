@@ -69,7 +69,7 @@ and to ask that their healthcare system make other types of vaccines available.
 
 >In fact, there is no other drug besides vaccines that is sold on that argument – because every other drug is given according to the basic time-honored Hippocratic imperative to “do no harm.” Each individual is given a drug that is assessed on an individual risk/benefit analysis for that individual. Since vaccination is for healthy individuals, that risk has to be exceedingly low and the benefit exceedingly high.
 
-Catechism
+[Catechism - Common Good](http://www.scborromeo.org/ccc/p3s1c2a2.htm#1905)
 >1901 If authority belongs to the order established by God, "the choice of the political regime and the appointment of rulers are left to the free decision of the citizens."20 The diversity of political regimes is morally acceptable, provided they serve the legitimate good of the communities that adopt them. Regimes whose nature is contrary to the natural law, to the public order, and to the fundamental rights of persons cannot achieve the common good of the nations on which they have been imposed.
 
 >1903 Authority is exercised legitimately only when it seeks the common good of the group concerned and if it employs morally licit means to attain it. If rulers were to enact unjust laws or take measures contrary to the moral order, such arrangements would not be binding in conscience. In such a case, "authority breaks down completely and results in shameful abuse."23
